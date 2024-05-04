@@ -1,0 +1,63 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - The Random Forest</title>
+        <link>https://yuvi101.github.io/therandomforest/tags/</link>
+        <description>Tags - Tag - The Random Forest</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 18 Dec 2022 21:36:21 &#43;0200</lastBuildDate><atom:link href="https://yuvi101.github.io/therandomforest/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Deep Learning</title>
+    <link>https://yuvi101.github.io/therandomforest/tags/deep-learning/</link>
+    <pubDate>Sun, 18 Dec 2022 21:36:21 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://yuvi101.github.io/therandomforest/tags/deep-learning/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Python</title>
+    <link>https://yuvi101.github.io/therandomforest/tags/python/</link>
+    <pubDate>Sun, 18 Dec 2022 21:36:21 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://yuvi101.github.io/therandomforest/tags/python/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Siamese Neural Networks</title>
+    <link>https://yuvi101.github.io/therandomforest/tags/siamese-neural-networks/</link>
+    <pubDate>Sun, 18 Dec 2022 21:36:21 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://yuvi101.github.io/therandomforest/tags/siamese-neural-networks/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>API</title>
+    <link>https://yuvi101.github.io/therandomforest/tags/api/</link>
+    <pubDate>Mon, 11 Apr 2022 11:21:51 &#43;0300</pubDate>
+    <author>Author</author>
+    <guid>https://yuvi101.github.io/therandomforest/tags/api/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Machine Learning</title>
+    <link>https://yuvi101.github.io/therandomforest/tags/machine-learning/</link>
+    <pubDate>Mon, 11 Apr 2022 11:21:51 &#43;0300</pubDate>
+    <author>Author</author>
+    <guid>https://yuvi101.github.io/therandomforest/tags/machine-learning/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Linear Algebra</title>
+    <link>https://yuvi101.github.io/therandomforest/tags/linear-algebra/</link>
+    <pubDate>Thu, 23 Dec 2021 08:48:18 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://yuvi101.github.io/therandomforest/tags/linear-algebra/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Neural Networks</title>
+    <link>https://yuvi101.github.io/therandomforest/tags/neural-networks/</link>
+    <pubDate>Thu, 23 Dec 2021 08:48:18 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://yuvi101.github.io/therandomforest/tags/neural-networks/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Classification</title>
+    <link>https://yuvi101.github.io/therandomforest/tags/classification/</link>
+    <pubDate>Tue, 14 Sep 2021 09:43:47 &#43;0300</pubDate>
+    <author>Author</author>
+    <guid>https://yuvi101.github.io/therandomforest/tags/classification/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
